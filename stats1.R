@@ -1,4 +1,5 @@
 # probability distributions
+# http://cyclismo.org/tutorial/R/probability.html
 
 # normal distribution
 # "d"	returns the height of the probability density function
